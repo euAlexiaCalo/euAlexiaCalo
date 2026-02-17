@@ -25,13 +25,13 @@ Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou me 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <div align="center" style="display: flex; flex-direction:row; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: inline-block; text-align: center;">
+  <div style="display: flex; text-align: center; alin-items: center; justify-content: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-    <br><sup>HTML5</sup>
+    <br><p>HTML5</p>
   </div>
-  <div style="display: inline-block; text-align: center;">
+  <div style="display: flex; text-align: center; alin-items: center; justify-content: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-    <br><sup>CSS3</sup>
+    <br><p>CSS3</p>
   </div>
   <div style="display: inline-block; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
@@ -55,7 +55,7 @@ Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou me 
   </div>
 </div>
 
-<br/>
+---
 
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
