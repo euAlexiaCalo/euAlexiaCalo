@@ -24,35 +24,43 @@ Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou me 
 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-<div align="center" style="display: flex; flex-direction:row; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: flex; text-align: center; alin-items: center; justify-content: center">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-    <br><p>HTML5</p>
+    <span style="margin-top: 8px;">HTML5</span>
   </div>
-  <div style="display: flex; text-align: center; alin-items: center; justify-content: center">
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-    <br><p>CSS3</p>
+    <span style="margin-top: 8px;">CSS3</span>
   </div>
-  <div style="display: inline-block; text-align: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-    <br><sup>JavaScript</sup>
+    <span style="margin-top: 8px;">JavaScript</span>
   </div>
-  <div style="display: inline-block; text-align: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-    <br><sup>Bootstrap</sup>
+    <span style="margin-top: 8px;">Bootstrap</span>
   </div>
-  <div style="display: inline-block; text-align: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-    <br><sup>C#</sup>
+    <span style="margin-top: 8px;">C#</span>
   </div>
-  <div style="display: inline-block; text-align: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-    <br><sup>MySQL</sup>
+    <span style="margin-top: 8px;">MySQL</span>
   </div>
-  <div style="display: inline-block; text-align: center;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" />
-    <br><sup>SQL Server</sup>
+    <span style="margin-top: 8px;">SQL Server</span>
   </div>
+
 </div>
 
 ---
