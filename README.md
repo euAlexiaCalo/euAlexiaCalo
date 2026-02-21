@@ -17,7 +17,7 @@ Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou me 
     <img alt="Seguidores" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/euAlexiaCalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/alexiacalo/">
+  <a href="https://www.linkedin.com/in/al%C3%A9xiacal%C3%B3/?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-0077B5?style=for-the-badge&logo=linkedin-white&labelColor=0077B5&label=Linkedin"/>
   </a>
 </p>
