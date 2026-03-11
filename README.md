@@ -53,5 +53,5 @@ Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou me 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euAlexiaCalo&theme=react" width="810" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euAlexiaCalo&theme=react" width="810" />
 </p>
