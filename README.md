@@ -6,7 +6,7 @@
 
 Olá! Meu nome é **Aléxia Caló Vand José**, tenho 23 anos e sou de São Paulo. Atualmente, curso **Técnico em Desenvolvimento de Sistemas no Senac**, onde construo minha base em programação.
 
-Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou me especializando em **Power BI** para unir o desenvolvimento técnico à inteligência analítica. Meu objetivo é transformar informações brutas em decisões estratégicas e evoluir constantemente na área de tecnologia.
+Recentemente, descobri uma forte afinidade pela **Análise de dados**. Estou aprimorando minhas habilidades em **Power BI** para unir o desenvolvimento técnico à inteligência analítica. Meu objetivo é transformar informações brutas em decisões estratégicas e evoluir constantemente na área de tecnologia.
 
 <p align="center">
   <a href="https://github.com/euAlexiaCalo?tab=repositories&sort=stargazers">
